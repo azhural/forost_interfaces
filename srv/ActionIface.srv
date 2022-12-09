@@ -1,0 +1,6 @@
+---
+int8 SUCCESS=0
+int8 RUNNING=1
+int8 FAILURE=-1
+
+int8 status
